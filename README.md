@@ -1,10 +1,9 @@
-[![Code Climate](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/gpa.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022)
-[![Build Status](https://travis-ci.org/spotted-eng-si-2022/-spotted-eng-si-2022.svg?branch=main)](https://travis-ci.org/spotted-eng-si-2022/-spotted-eng-si-2022)
-[![Test Coverage](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/coverage.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/coverage)
-[![Issue Count](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/issue_count.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d62bb9a192ee7136af1a/maintainability)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d62bb9a192ee7136af1a/test_coverage)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/test_coverage)
+
 
 ### Links:
-* Heroku: 
+* Heroku: https://spotted.herokuapp.com/
 * Pivotal Tracker: 
 
 ### Integrantes do Projeto:
