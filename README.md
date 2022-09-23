@@ -1,24 +1,13 @@
-# README
+[![Code Climate](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/gpa.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022)
+[![Build Status](https://travis-ci.org/spotted-eng-si-2022/-spotted-eng-si-2022.svg?branch=main)](https://travis-ci.org/spotted-eng-si-2022/-spotted-eng-si-2022)
+[![Test Coverage](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/coverage.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/coverage)
+[![Issue Count](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022/badges/issue_count.svg)](https://codeclimate.com/github/spotted-eng-si-2022/-spotted-eng-si-2022)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Links:
+* Heroku: 
+* Pivotal Tracker: 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Integrantes do Projeto:
+* Antonio Garcia de Souza Neto - 118460501        
+* Pedro Vinicius Fonseca - 11848264
+* Victor Dos Santos Ribeiro - 11917559
