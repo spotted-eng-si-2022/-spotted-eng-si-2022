@@ -4,7 +4,7 @@
 
 ### Links:
 * Heroku: https://spotted.herokuapp.com/
-* Pivotal Tracker: 
+* Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2603414
 
 ### Integrantes do Projeto:
 * Antonio Garcia de Souza Neto - 118460501        
